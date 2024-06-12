@@ -1,1 +1,1 @@
-# Multiple-QA-chatbot-with-RAG
+# LangChain-Multiple-QA-chatbot-with-RAG
